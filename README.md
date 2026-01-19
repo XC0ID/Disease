@@ -37,7 +37,7 @@ This project builds and compares multiple Machine Learning models to predict whe
 #### Output
 
 Each model is evaluated using:
-Accuracy
-Precision
-Recall
+Accuracy,
+Precision,
+Recall,
 F1-score
